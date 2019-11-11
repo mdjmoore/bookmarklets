@@ -26,3 +26,6 @@ javascript: (function() {const dongerList = ["c( ⁰ 〰 ⁰ )੭","ᕙ( ~ . ~ )
 - all code must start with `javascript:` and be wrapped in an anonymous function
 - changes aren't persistent unless javascript has been used to alter the Local Storage or Cookies
 - can be used to target anything on the page - get creative! All inputs are now #BADA55 for visibility, stop all animations on a page, replace the word `millennial` with `grown-ass adult`. Sky's the limit ⛅️
+
+### PS:
+Are you going to make a bookmarklet?

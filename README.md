@@ -1,5 +1,5 @@
 # 🏳️‍🌈 QueerJs - Bookmarklets!
-A list of (hopefully) use bookmarklets as outlined in my 2019 QueerJS talk
+A list of (hopefully) useful bookmarklets as outlined in my 2019 QueerJS talk
 
 ## onbrand query param
 adds a query parameter to the end of the current url

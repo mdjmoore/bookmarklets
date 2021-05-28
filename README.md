@@ -24,7 +24,7 @@ A list of (hopefully) useful bookmarklets as outlined in my 2019 QueerJS talk
 adds a query parameter to the end of the current url
 
 ```js
-javascript: (function() {window.location.href += "?onbrand";})();
+javascript: (function() {window.location.search = "?onbrand";})();
 ```
 
 ### css debug
